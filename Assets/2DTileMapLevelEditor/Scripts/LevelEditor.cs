@@ -13,6 +13,7 @@ using System.IO;
 //Include for Unity UI
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using GracesGames;
 
 public class LevelEditor : MonoBehaviour {
 
